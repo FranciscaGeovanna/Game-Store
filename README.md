@@ -11,5 +11,13 @@ completa e divertida para os clientes, oferecendo compra de jogos e a possibilid
 <p>O banco de dados do Sistema de Gerenciamento da Game Store foi desenvolvido para suprir as necessidades da loja Level Up Games, armazenando de forma eficiente os dados essenciais 
 para o seu bom funcionamento.</p>
 
-<p>No Sistema de Gerenciamento de Game Store as principais entidades são: Jogo, Desenvolvedora, Plataforma, Gênero, Cliente, Venda, Assinatura e Avaliação. Cada uma dessas entidades 
-possui atributos que são importantes para o funcionamento da loja.</p>
+No Sistema de Gerenciamento de Game Store as principais entidades são: 
+- Jogo
+- Desenvolvedor
+- Plataforma
+- Gênero
+- Cliente
+- Venda
+- Assinatura
+- Avaliação.
+<p>Cada uma dessas entidades possui atributos que são importantes para o funcionamento da loja.</p>
